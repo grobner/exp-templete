@@ -7,3 +7,10 @@
 - kadai.tex (ここに色々書く　ファイル分割推奨)
 - sankou.tex　(参考文献)
 - Makefile コンパイル&表紙くっつけるやつ
+
+## 取り込み
+
+```
+git remote add origin [HTTPS]
+git pull origin master
+```
