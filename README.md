@@ -18,7 +18,7 @@ git pull origin master
 ## 差分PDF出力
 
 ```
-latexdiff-vc -e utf8 --git --flatten --force -r [commit ID] main.tex
+latexdiff-vc -e utf8 --git --flatten --force -r [commit ID] kadai.tex
 ```
 
 commit IDにはブランチ名も指定することができる。
